@@ -1,3 +1,3 @@
 # Kidney_stone_detection
 
-### for dataset [contact](muddassar.developer@gmail.com)
+### for dataset [contact](mailto:muddassar.developer@gmail.com)
